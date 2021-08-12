@@ -1,6 +1,4 @@
-### Olá!! Eu sou a Laiane (ou apenas Lai 😆)
-
-
+### Olá!! Eu sou a Laiane (ou apenas Lai) 😆
 
 - 🔭 Trabalho com front-end
 - 🌱 Estudando Python e Flask
