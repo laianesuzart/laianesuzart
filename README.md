@@ -1,12 +1,12 @@
 ### Olá!! Eu sou a Laiane (ou apenas Lai) 😆
 
-- 🔭 Trabalho com front-end
-- 🌱 Estou estudando Python e Flask
+💙 Amo front end! Construo aplicações em React :3
+💚 No back end, construo APIs com Python, Flask, MongoDB ou PostgreSQL
 
 <div>
   <a href="https://github.com/laianesuzart"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laianesuzart&theme=radical&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laianesuzart&layout=compact&theme=radical&langs_count=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laianesuzart&layout=compact&theme=radical&langs_count=10"/>
 </div>
 
 <div style="display: inline_block"><br>
