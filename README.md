@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Laiane (ou apenas Lai) 😆
 
-💙 Amo front end! Construo aplicações em React :3
-💚 No back end, construo APIs com Python, Flask, MongoDB ou PostgreSQL
+- 💙 Amo front end! Construo aplicações em React :3
+- 💚 No back end, construo APIs com Python, Flask, MongoDB ou PostgreSQL
 
 <div>
   <a href="https://github.com/laianesuzart"/>
