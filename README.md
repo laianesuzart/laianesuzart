@@ -1,13 +1,13 @@
 <h1 align="center">𝓗𝓮𝓵𝓵𝓸!! 𝓘'𝓶 𝓛𝓪𝓲</h1>
-<h3 align="center">𝓐 𝓯𝓾𝓵𝓵 𝓼𝓽𝓪𝓬𝓴 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</h3>
+<h3 align="center">Frontend developer</h3>
 
-### 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
+### About me
 
 I'm a brazilian web developer and game development enthusiast. I have a business degree but found myself in a software bootcamp, it's never too late to start something new :D 
 
 🐱🐶🐴 lover
 
-### 𝓢𝓴𝓲𝓵𝓵𝓼
+### Stack
 
 <div>
   <img  alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -30,7 +30,7 @@ I'm a brazilian web developer and game development enthusiast. I have a business
 
 <hr/>
 
-### 𝓒𝓸𝓷𝓽𝓪𝓬𝓽
+### Contact
                                                                                                                                                          
 <div> 
   <a href="mailto:laiane.fsuzart@gmail.com"  target="_blank">
