@@ -32,7 +32,7 @@ I'm a brazilian web developer and game development enthusiast. I have a business
 ### Contact
                                                                                                                                                          
 <div> 
-  <a href="mailto:laiane.fsuzart@gmail.com"  target="_blank">
+  <a href="mailto:contact@laiane.dev"  target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/laianesuzart/" target="_blank">
