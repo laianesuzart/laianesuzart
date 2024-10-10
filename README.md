@@ -24,7 +24,7 @@ I'm a brazilian web developer and game development enthusiast. I have a business
                                                                                                                                                 
 <div>
   <a href="https://github.com/laianesuzart"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laianesuzart&layout=compact&theme=radical&langs_count=5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laianesuzart&layout=compact&theme=radical&langs_count=6"/>
 </div>
 
 <hr/>
