@@ -3,9 +3,7 @@
 
 ### About me
 
-I'm a brazilian web developer and game development enthusiast. I have a business degree but found myself in a software bootcamp, it's never too late to start something new :D 
-
-🐱🐶🐴 lover
+I'm a brazilian web developer and game development enthusiast, currently learning WebGL :)
 
 ### Stack
 
