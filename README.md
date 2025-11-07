@@ -1,9 +1,11 @@
-<h1 align="center">𝓗𝓮𝓵𝓵𝓸!! 𝓘'𝓶 𝓛𝓪𝓲</h1>
-<h3 align="center">Frontend developer</h3>
+<h1 align="center">🌸 𝓗𝓮𝓵𝓵𝓸!! 𝓘'𝓶 𝓛𝓪𝓲</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 ### About me
 
-I'm a brazilian web developer and game development enthusiast, currently learning WebGL :)
+I'm a Brazilian web developer and game development enthusiast, currently exploring WebGL :)
+
+<img src="https://www.codewars.com/users/Laiane/badges/micro"/>
 
 ### Stack
 
@@ -18,27 +20,23 @@ I'm a brazilian web developer and game development enthusiast, currently learnin
   <img  alt="Python" src="https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=ffd343">
 </div>
 
-<br/>
-                                                                                                                                                
+<br/> 
+
 <div>
-  <a href="https://github.com/laianesuzart"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laianesuzart&layout=compact&theme=radical&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laianesuzart&layout=compact&theme=radical&langs_count=6&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=laianesuzart&show_icons=true&theme=radical&hide_rank=true&hide_border=true&include_all_commits=true&custom_title=My+Stats&hide=issues" />
 </div>
 
 <hr/>
 
-### Contact
+### Reach me
                                                                                                                                                          
 <div> 
-  <a href="mailto:contact@laiane.dev"  target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/laianesuzart/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+  <a href="https://linkedin.com/in/laianesuzart" target="_blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="mailto:contact@laiane.dev" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/bd77407e-b05b-4e2f-aebb-42ea6e2fad44" alt="Email" height="32" width="32" /></a>
 </div>
 
 <br/>
 
-### 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! 💕
+### Thanks for stopping by! 💕
 
