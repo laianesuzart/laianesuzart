@@ -24,7 +24,7 @@ I'm a Brazilian web developer and game development enthusiast, currently explori
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laianesuzart&layout=compact&theme=radical&langs_count=6&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=laianesuzart&show_icons=true&theme=radical&hide_rank=true&hide_border=true&include_all_commits=true&custom_title=My+Stats&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laianesuzart&show_icons=true&theme=radical&hide_rank=true&hide_border=true&include_all_commits=true&custom_title=My+Stats" />
 </div>
 
 <hr/>
@@ -32,8 +32,8 @@ I'm a Brazilian web developer and game development enthusiast, currently explori
 ### Reach me
                                                                                                                                                          
 <div> 
-  <a href="https://linkedin.com/in/laianesuzart" target="_blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="mailto:contact@laiane.dev" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/bd77407e-b05b-4e2f-aebb-42ea6e2fad44" alt="Email" height="32" width="32" /></a>
+  <a href="https://linkedin.com/in/laianesuzart" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="mailto:contact@laiane.dev" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/user-attachments/assets/bd77407e-b05b-4e2f-aebb-42ea6e2fad44" alt="Email" height="32" width="32" /></a>
 </div>
 
 <br/>
