@@ -24,7 +24,8 @@ I'm a Brazilian web developer and game development enthusiast, currently explori
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laianesuzart&layout=compact&theme=radical&langs_count=6&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=laianesuzart&show_icons=true&theme=radical&hide_rank=true&hide_border=true&include_all_commits=true&custom_title=My+Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=laianesuzart&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&custom_title=My+Stats" />
 </div>
 
 <hr/>
